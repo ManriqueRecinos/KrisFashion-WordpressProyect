@@ -2,3 +2,5 @@
 
 2024-10-12T23:23:50+02:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\KrisFashion\wp-admin\includes\taxonomy.php on line 317
 
+2024-10-13T23:05:14+02:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\KrisFashion\wp-content\plugins\elementor\app\app.php on line 15
+
